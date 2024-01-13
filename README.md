@@ -3,7 +3,7 @@
 
 - Atualmente atuo com Automação de Processos e Visualização de Dados **na Energisa**
 
-- Atualmente estou focado em aprender mais sobre **Pyhton e Machine Learning**
+- Atualmente estou focado em  **Pyhton e Machine Learning**
 
 - Também ajudo pequenas empresas, na implementação de processos e Data Driven **na Avancce Consultoria**
 
